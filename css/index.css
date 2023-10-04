@@ -1,0 +1,131 @@
+.barraNav  a{
+    color: rgb(255, 255, 255);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+    text-shadow: 0 0 5px black;
+   
+}
+.barraNav{
+    background: rgb(66,105,240);
+    background: radial-gradient(circle, rgba(66,105,240,1) 0%, rgba(37,77,213,1) 10%, rgba(1,32,162,1) 43%, rgba(4,9,103,1) 100%); 
+    
+}
+.logo{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+body{
+    background: rgb(67,67,106);
+    background: linear-gradient(0deg, rgba(67,67,106,1) 0%, rgba(60,64,97,1) 8%, rgba(39,39,79,1) 27%, rgba(36,36,70,1) 45%, rgba(10,9,15,1) 100%);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+.mi-jumbotron {
+    overflow: hidden;
+  position: relative;
+    height: 700px;
+    margin: 0 px 0;
+    padding: 0px;
+    text-align: center;
+    }
+    .mi-jumbotron h1{
+        font-size: 70px;
+        color: rgb(66, 197, 233);
+        text-shadow: 0 0 1px white;
+        padding-top: 75px;
+    }
+    .mi-jumbotron p{
+        font-size: 40px;
+        color: rgb(66, 197, 233);
+        text-shadow: 0 0 1px white;
+      
+    }
+  
+    #carouselExampleSlidesOnly{
+        position: absolute;
+        top:0;
+        z-index: -1;
+    }
+    .imagencarrusel1{
+width: 1600px;
+height: 700px;
+object-fit: cover;
+
+
+    }
+  
+    .pregunta h1{
+        padding-top: 200;
+text-align: center;
+color:white;
+padding-top: 100px;
+padding-bottom: 40px;
+font-size: 100px; 
+    }
+ 
+    .sctHeader h1{
+        font-size: 150px;
+    }
+    .articulo img{
+        margin-left: 100px;
+        margin-bottom: 70px;
+        border-radius: 50px;
+        width: 600px;
+        height: 370px;
+    }
+   
+    .login{
+        padding-left: 930px;
+    }
+.logincount{
+    align-items: center;
+}
+.contL p{
+    align-items: center;
+    border-color: aliceblue;
+}
+
+.mi-jumbotron2 h1{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(159, 226, 245);
+    text-shadow: 0 0 2px white;
+    padding-top: 75px;
+    padding-right: 10px;
+    padding-left: 400px;
+  
+}
+.mi-jumbotron2 a{
+  text-align: center;
+  border-color: rgb(0, 55, 255);
+   width: 150px;
+   height: 80px;
+ font-size: 30px;
+   transition: width 1s, height 3s, color 4s, font-size 2s ;
+   border-radius: 10px;
+   margin-left: 750px;
+
+ 
+}
+.mi-jumbotron2:hover a {
+    width: 220px;
+    height: 100px;
+    font-size: 50px;
+    
+    border-color: rgb(144, 255, 205);
+    background-color:rgb(0, 255, 140);
+    font-size: 50px;
+}
+.footer{
+  
+    color: rgb(255, 255, 255);
+    padding-bottom: 10px;
+    background: rgb(66,105,240);
+    background: radial-gradient(circle, rgba(66,105,240,1) 0%, rgba(37,77,213,1) 10%, rgba(1,32,162,1) 43%, rgba(4,9,103,1) 100%);
+    padding-right: 20px;
+}
+.perro img{
+    width: 800px;
+    height: 650px;
+}
